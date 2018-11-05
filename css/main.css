@@ -8,7 +8,7 @@ html {
 }
 
 div {
-  padding: .5rem;
+  padding: .7rem;
   text-align: center;
 }
 
@@ -21,7 +21,7 @@ div {
   text-decoration: none;
   border: 3px;
   border-radius: 8px;
-  padding: .4em .75em .3em;
+  padding: .55em .75em;
 }
 
 .btn-subtle {
@@ -30,16 +30,15 @@ div {
   text-decoration: none;
   border: 3px;
   border-radius: 8px;
-  padding: .4em .75em .3em;
+  padding: .5em .75em;
 }
 
 .btn-ghost {
   color: #333;
   border: 3px solid #333;
   text-decoration: none;
-  border: 3px;
   border-radius: 8px;
-  padding: .4em .75em .3em;
+  padding: .5em .75em;
 }
 
 .btn-warning {
@@ -48,8 +47,9 @@ div {
   text-decoration: none;
   border: 3px;
   border-radius: 8px;
-  padding: .4em .75em .3em;
+  padding: .5em .75em;
 }
+
 /* hovers */
 
 .btn:hover {
@@ -70,6 +70,7 @@ div {
 }
 
 /* sizes */
+
 .btn-normal {
   font-size: 1.125rem;
 }
