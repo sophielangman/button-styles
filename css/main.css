@@ -8,7 +8,7 @@ html {
 }
 
 div {
-  padding: .7rem;
+  padding: .5rem;
   text-align: center;
 }
 
@@ -21,33 +21,26 @@ div {
   text-decoration: none;
   border: 3px;
   border-radius: 8px;
-  padding: .55em .75em;
+  padding: .4em .75em .3em;
 }
 
 .btn-subtle {
   color: #fff;
   background-color: #ccc;
   text-decoration: none;
-  border: 3px;
-  border-radius: 8px;
-  padding: .5em .75em;
 }
 
 .btn-ghost {
   color: #333;
+  background-color: #fff;
   border: 3px solid #333;
   text-decoration: none;
-  border-radius: 8px;
-  padding: .5em .75em;
 }
 
 .btn-warning {
   color: #fff;
   background-color: #f33;
   text-decoration: none;
-  border: 3px;
-  border-radius: 8px;
-  padding: .5em .75em;
 }
 
 /* hovers */
