@@ -27,20 +27,17 @@ div {
 .btn-subtle {
   color: #fff;
   background-color: #ccc;
-  text-decoration: none;
 }
 
 .btn-ghost {
   color: #333;
   background-color: #fff;
   border: 3px solid #333;
-  text-decoration: none;
 }
 
 .btn-warning {
   color: #fff;
   background-color: #f33;
-  text-decoration: none;
 }
 
 /* hovers */
