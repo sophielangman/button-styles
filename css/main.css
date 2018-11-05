@@ -19,6 +19,7 @@ div {
   color: #fff;
   background-color: #333;
   text-decoration: none;
+  border: solid 3px #333;
   border-radius: 8px;
   padding: .4em .75em .3em;
 }
@@ -26,17 +27,18 @@ div {
 .btn-subtle {
   color: #fff;
   background-color: #ccc;
+  border-color: #ccc;
 }
 
 .btn-ghost {
   color: #333;
   background-color: #fff;
-  border: 3px solid #333;
 }
 
 .btn-warning {
   color: #fff;
   background-color: #f33;
+  border-color: #f33;
 }
 
 /* hovers */
